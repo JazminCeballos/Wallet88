@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Wallet_fd79b534"
+        },
+        {
+            "type": "java",
+            "name": "Launch Files",
+            "request": "launch",
+            "mainClass": "view.Files",
+            "projectName": "Wallet_fd79b534"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interfaz",
+            "request": "launch",
+            "mainClass": "view.Interfaz",
+            "projectName": "Wallet_fd79b534"
+        },
+        {
+            "type": "java",
+            "name": "Launch UserView",
+            "request": "launch",
+            "mainClass": "view.UserView",
+            "projectName": "Wallet_fd79b534"
+        },
+        {
+            "type": "java",
+            "name": "Launch VistaTest",
+            "request": "launch",
+            "mainClass": "view.VistaTest",
+            "projectName": "Wallet_fd79b534"
+        }
+    ]
+}
